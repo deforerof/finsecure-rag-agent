@@ -1,0 +1,5 @@
+id,categoria,seccion,contenido,fecha_actualizacion
+1,Seguridad,Limites Transaccionales,El limite maximo diario para transferencias salientes en cuentas estandar es de 5000000 COP por motivos de seguridad y prevencion de lavado de activos.,2026-03-15
+2,Seguridad,Protocolo Fraude,El protocolo obligatorio ante un acceso sospechoso desde otra direccion IP exige congelar preventivamente los retiros por 24 horas y enviar un token de autenticacion multifactor (MFA) al telefono registrado del usuario.,2026-05-10
+3,Legal,Custodia de Fondos,Todos los fondos digitales estan respaldados en un 100% bajo cuentas de custodia segregadas cumpliendo con las directrices de la SFC y los estandares internacionales de cifrado de datos.,2026-01-20
+4,Soporte,Cancelacion Cuentas,Para solicitar el cierre definitivo de una cuenta el usuario no debe registrar saldos pendientes ni disputas activas en pasarelas de pago y la aprobacion tomara hasta 48 horas habiles.,2026-06-02
